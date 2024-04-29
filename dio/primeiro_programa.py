@@ -1,0 +1,10 @@
+print("Hello World")
+print(1 + 21 + 22.5)
+print(True)
+print(False)
+print("Python")
+
+int(1 + 2)
+float(12.5 + 2)
+str()
+bool()
