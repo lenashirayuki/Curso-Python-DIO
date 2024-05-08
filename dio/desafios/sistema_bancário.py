@@ -62,7 +62,7 @@ while True:
         print("<=========== EXTRATO ===========>")
         print("Não foram realizadas movimentações.") if not extrato else extrato
         print(extrato)
-        print(f"""
+        print(f"""f
               
 Saldo total na conta: {saldo:.2f}""")
         print("<===============================>")
